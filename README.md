@@ -6,17 +6,26 @@ A sleek, modern Chrome extension that converts any webpage to Right-to-Left (RTL
 
 - Convert any webpage to RTL format instantly
 - Convert back to LTR format when needed
-- Modern, intuitive user interface
+- Modern, intuitive user interface with a simple toggle switch
 - Visual feedback on operations
 - Works on any webpage
 - Handles text alignment, margins, padding, and float properties
 
+## Repository
+
+This extension is available on GitHub: [https://github.com/eytan012/rtl-chromext](https://github.com/eytan012/rtl-chromext)
+
 ## Installation
 
-1. Download or clone this repository
+### Option 1: Install from source
+
+1. Clone this repository:
+   ```
+   git clone https://github.com/eytan012/rtl-chromext.git
+   ```
 2. Open Chrome and navigate to `chrome://extensions/`
 3. Enable "Developer mode" using the toggle in the top-right corner
-4. Click "Load unpacked" and select the extension folder
+4. Click "Load unpacked" and select the cloned extension folder
 5. The RTL Page Converter extension should now appear in your extensions list
 
 ## Usage
