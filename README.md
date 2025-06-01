@@ -1,3 +1,5 @@
+https://chromewebstore.google.com/detail/rtl-page-converter/benaigcnejamedbkoolofjlndlphanmp
+
 # RTL Page Converter Chrome Extension
 
 A sleek, modern Chrome extension that converts any webpage to Right-to-Left (RTL) format with a single click. Perfect for reading content in RTL languages or testing website layouts.
